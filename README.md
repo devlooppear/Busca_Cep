@@ -15,7 +15,3 @@
 | Command | Description |
 | --- | --- |
 | pip install -r requirements.txt | Irá instalar todas as biblíotecas necessárias |
-
-## Autor
-
-- Iago Silva.
